@@ -1,4 +1,4 @@
-package com.birdeveloper.retrokhttp2
+package com.birdeveloper.retrokhttp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

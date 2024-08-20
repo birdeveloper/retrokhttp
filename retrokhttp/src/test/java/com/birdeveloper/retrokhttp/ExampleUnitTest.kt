@@ -1,4 +1,4 @@
-package com.birdeveloper.retrokhttp2
+package com.birdeveloper.retrokhttp
 
 import org.junit.Test
 

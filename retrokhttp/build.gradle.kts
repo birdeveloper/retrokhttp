@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.birdeveloper.retrokhttp2"
+    namespace = "com.birdeveloper.retrokhttp"
     compileSdk = 34
 
     defaultConfig {
@@ -33,7 +33,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
